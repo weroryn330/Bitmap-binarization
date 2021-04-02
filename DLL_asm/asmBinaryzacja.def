@@ -1,0 +1,2 @@
+LIBRARY DLL_asm
+EXPORTS Main
